@@ -2,7 +2,7 @@
 var qrcodeAddress = new QRCode(document.getElementById("qrcodeAddress"),{width: 120,height: 120});
 var qrcodeSecret = new QRCode(document.getElementById("qrcodeSecret"),{width: 120, height: 120});
 
-newwatc();
+newbutk();
 
 function getConfig() {
 	var networkConfigs = {
@@ -28,7 +28,7 @@ function getConfig() {
 }
 
 // Create new wallet
-function newwatc(){
+function newbutk(){
 	var keys = bitcoin.ECPair.makeRandom({'network': getConfig()['network']})
 	var address = getAddress(keys)
 
