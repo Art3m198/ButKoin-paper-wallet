@@ -7,4 +7,4 @@ A simple ButKoin paper wallet
 https://art3m198.github.io/ButKoin-paper-wallet/
 
 # Donate ButKoin: 
-Xi5KSSzV7pPcu5S2FjsNqVCCXXAscqQHPA
+XpeH8dVfhnToBxpkN37DZaYbW9UfFbaCfA
